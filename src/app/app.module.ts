@@ -17,7 +17,8 @@ import { SelectComponent } from './select/select.component';
   ],
   imports: [
     BrowserModule,
-    ProviderModule
+    ProviderModule,
+    OrdersModule,
     
   ],
   providers: [],
